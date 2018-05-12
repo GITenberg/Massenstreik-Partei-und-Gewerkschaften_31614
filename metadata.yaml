@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Rosa_Luxemburg
     - http://de.wikipedia.org/wiki/Rosa_Luxemburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31614#Massenstreik-Partei-und-Gewerkschaften
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-03-12'
 gutenberg_type: Text
