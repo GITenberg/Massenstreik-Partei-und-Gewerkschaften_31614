@@ -1,0 +1,34 @@
+_repo: Massenstreik-Partei-und-Gewerkschaften_31614
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Luxemburg, Rosa
+    alias: Junius
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '32368'
+    url: http://www.gutenberg.org/2009/agents/32368
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Rosa_Luxemburg
+    - http://de.wikipedia.org/wiki/Rosa_Luxemburg
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31614'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Socialism'
+- !lcsh 'General strikes'
+- !lcsh 'Labor unions'
+- !lcsh 'Strikes and lockouts'
+title: Massenstreik, Partei und Gewerkschaften
+url: http://www.gutenberg.org/ebooks/31614
